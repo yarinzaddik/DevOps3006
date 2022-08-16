@@ -10,10 +10,9 @@ def show_names(names_file):
         print(name, end='')
     my_file.close()
 
-
+def moshe(david):
+    print(david)
 
 for i in range(5):
     save_name("names.txt")
 show_names("names.txt")
-
-
