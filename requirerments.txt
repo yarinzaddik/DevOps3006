@@ -1,0 +1,5 @@
+#requests
+#selenium
+awscli
+
+#pip install -r requirerments.txt
